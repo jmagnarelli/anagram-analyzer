@@ -21,7 +21,7 @@ class WordFileParser(object):
     
     @param line: A string representing a line to check
     @return: The word on the line if the line is valid, False otherwise"""
-    match = re.match(r'(^[A-Za-z]+)\n$', line)
+    match = re.match(r'(^[A-Za-z]+)(?:\r)*\n$', line)
     
     #Check for validity
     return match is not None and match.group(1)
