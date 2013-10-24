@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-"""test.py: A set of tests for the anagram counting algorithm"""
+"""Test.py: A set of tests for the anagram counting algorithm"""
 
 __author__ = "James Magnarelli"
 __version__ = 0.1

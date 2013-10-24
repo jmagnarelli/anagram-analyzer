@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-"""counter.py: A utility for counting occurrences of anagrams in a word list"""
+"""AnagramCounter.py: A utility for counting occurrences of anagrams in a word list"""
 
 __author__ = "James Magnarelli"
 __version__ = "0.1"
