@@ -2,7 +2,14 @@ Anagram-Counter
 =================
 
 Here's my anagram counter. It is roughly consistent with usual descriptions of
-anagram counting problems. Some notes on usage:
+anagram counting problems. Specifically, this is a solution for the problem:
+"Given a set of words, output the number of words in that set that have at
+least one anagram among the other words in the set."
+
+Note that a word is an anagram of itself. Words are also restricted to
+alphabetical characters, and our comparisons are case-insensitive.
+
+Some notes on usage:
 
 From the anagram-analyzer directory, you can either:
 run the tests (./Test.py), to see that things are working
