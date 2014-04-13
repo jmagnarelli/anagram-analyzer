@@ -1,4 +1,4 @@
-Anagram-Counter
+Anagram-Analyzer
 =================
 
 Here's my anagram counter. It is roughly consistent with usual descriptions of
